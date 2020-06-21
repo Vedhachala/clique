@@ -1,0 +1,15 @@
+.side-chat-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-header {
+    position: relative;
+}
+
+.entities-list {
+    background-color: tomato;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}

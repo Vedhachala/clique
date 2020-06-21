@@ -1,0 +1,25 @@
+.main-body-container {
+    display: flex;
+    height: 100%;
+    position: relative;
+}
+
+.users-nav {
+    width: 25%;
+    border: 2px solid;
+    position: relative;
+}
+
+.message-content {
+    flex: 1;
+    position: relative;
+}
+
+.input-bar {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 50px;
+    border: 2px solid;
+}
